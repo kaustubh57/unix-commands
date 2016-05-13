@@ -50,6 +50,7 @@
 - cat [FILE_NAME]: view file
 - ifconfig: similar to ipconfig
 - /etc/init.d/network restart : restart network
+- `tail -500 FILE_NAME | less` : see last 500 lines of files
 
 ## Set ENV
 - vi ~/.bash_profile : env variable setup file
