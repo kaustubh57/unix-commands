@@ -18,6 +18,10 @@
 - rm -r * : deletes everything in directory
 - rm test.txt : removes only file with a name "test.txt" on the end
 
+## Basic network commands
+- `ifconfig` - get ip of machine
+- `hostname` - get machine's name
+
 ## Install
 - rpm -ivh : install rpm bin file
 
